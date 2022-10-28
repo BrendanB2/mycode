@@ -1,0 +1,16 @@
+20221026_17:21:45 -     The high was 88.00°F, and the low was 22.00°F.
+20221026_17:24:55 - The high was 89.00°C and the low was 22.00°C.
+20221026_17:27:25 - The high was 67.00°C and the low was 44.00°C.
+20221026_17:27:36 - The high was 77.00°F, and the low was 33.00°F.
+20221026_17:55:04 - The high was 45.00°C and the low was 22.00°C.
+20221026_17:55:17 - The high was 45.00°F, and the low was 22.00°F.
+20221027_17:19:28 - The high was 45.00°C and the low was 33.00°C.
+20221027_17:24:18 - The high was 75.00°F, and the low was 60.00°F.
+20221027_17:43:33 - The high was 78.00°C and the low was 72.00°C.
+20221027_18:21:56 - The high was 56.00°F, and the low was 33.00°F.
+20221027_18:23:25 - The high was 47.00°F, and the low was 22.00°F.
+20221027_18:25:08 - The high was 47.00°F, and the low was 22.00°F.
+20221027_18:25:38 - The high was 56.00°C and the low was 22.00°C.
+20221027_19:23:10 - The high was 57.00°C and the low was 44.00°C.
+20221028_03:46:08 - The high was 48.00°C and the low was 32.00°C.
+20221028_03:47:01 - The high was 67.00°F, and the low was 23.00°F.
